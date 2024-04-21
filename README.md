@@ -246,4 +246,4 @@ Password : samplestudent  <br>
     
 ### Step By Step Guide
     
-<h4>FULL STEP BY STEP GUIDE : <a href="https://drive.google.com/file/d/17EDhcdr8Pf_hSb4CnjD2g08lwcXLPgbX/view?usp=sharing">CLICK HERE</a></h4>
+<h4>FULL STEP BY STEP GUIDE : <a href="https://drive.google.com/file/d/1k7g7Vbrf0q-X7_oB6HI2ZklDFyr_2137/view?usp=sharing">CLICK HERE</a></h4>
