@@ -179,21 +179,6 @@ NOTE: PROJECT SETUP GUIDE (IF WANTS TO CLONE THE REPO IN LOCAL SYSTEM)
     - pip install django-crispy-forms
     - pip install jsonfield
     - pip install pillow
-    
-**CLONING THE DJANGO PROJECT FROM GITUB**
-
-* Go to the Github Repoistory . Github Repo Link : <a href="https://github.com/RahulAgarwal1999/VirtualClassroom-Microsoft_Engage">Click Here</a>
-* Click on **CODE** button and copy the **HTTPS** Link of the repo
-
-<p align="center">
-    <img src="/readme_images/Github-clone.PNG" alt="Copy the HTTPS Link">
-    <br />
-    Copy the HTTPS Link
-</p>
-
-
-* Open the Command Line Terminal and cd to the folder you want to clone the project. 
-* In the command line enter the command : **git clone <Copied HTTP repo clone link>** and press **Enter**.
 
     
 **RUNNING THE PROJECT**
